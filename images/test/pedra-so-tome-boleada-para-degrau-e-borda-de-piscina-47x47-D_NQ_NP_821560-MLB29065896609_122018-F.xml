@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pedra-so-tome-boleada-para-degrau-e-borda-de-piscina-47x47-D_NQ_NP_821560-MLB29065896609_122018-F.jpg</filename>
+	<path>/home/lopes/Development/projetos/iniciacao-cientifica/escadas/images/pedra-so-tome-boleada-para-degrau-e-borda-de-piscina-47x47-D_NQ_NP_821560-MLB29065896609_122018-F.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>escada</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>58</ymin>
+			<xmax>532</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>
